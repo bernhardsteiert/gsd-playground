@@ -89,30 +89,28 @@
 
 ## Traceability
 
-*Populated during roadmap creation.*
-
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| RACE-01 | — | Pending |
-| RACE-02 | — | Pending |
-| RACE-03 | — | Pending |
-| TRACK-01 | — | Pending |
-| TRACK-02 | — | Pending |
-| TRACK-03 | — | Pending |
-| TRACK-04 | — | Pending |
-| CTRL-01 | — | Pending |
-| CTRL-02 | — | Pending |
-| AI-01 | — | Pending |
-| AI-02 | — | Pending |
-| ITEM-01 | — | Pending |
-| PWA-01 | — | Pending |
-| PWA-02 | — | Pending |
+| TRACK-01 | Phase 1 | Pending |
+| TRACK-02 | Phase 1 | Pending |
+| CTRL-01 | Phase 1 | Pending |
+| TRACK-03 | Phase 2 | Pending |
+| AI-01 | Phase 2 | Pending |
+| AI-02 | Phase 2 | Pending |
+| RACE-01 | Phase 3 | Pending |
+| RACE-02 | Phase 3 | Pending |
+| RACE-03 | Phase 3 | Pending |
+| TRACK-04 | Phase 3 | Pending |
+| ITEM-01 | Phase 3 | Pending |
+| PWA-01 | Phase 4 | Pending |
+| PWA-02 | Phase 4 | Pending |
+| CTRL-02 | Phase 4 | Pending |
 
 **Coverage:**
 - v1 requirements: 14 total
-- Mapped to phases: 0 (roadmap pending)
-- Unmapped: 14 ⚠️
+- Mapped to phases: 14 ✓
+- Unmapped: 0 ✓
 
 ---
 *Requirements defined: 2026-06-20*
-*Last updated: 2026-06-20 after initial definition*
+*Last updated: 2026-06-20 after roadmap creation*
