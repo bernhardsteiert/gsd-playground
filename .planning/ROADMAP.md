@@ -30,7 +30,10 @@
   3. Kart cannot drive off the track — boundary walls stop lateral movement and bounce the kart back
   4. Chase camera follows the kart smoothly without nauseating jitter or lag
   5. WebGL context is recovered gracefully when app is backgrounded and reopened (no black screen)
-**Plans**: TBD
+**Plans:** 2 plans
+Plans:
+- [ ] 01-01-PLAN.md — Project scaffold + WebGPURenderer init + fixed-timestep game loop + context loss recovery
+- [ ] 01-02-PLAN.md — CatmullRomCurve3 track + invisible boundary walls + kinematic kart controller + touch input + chase camera
 **UI hint**: yes
 
 ### Phase 2: AI Opponents & Checkpoint System
@@ -77,7 +80,7 @@
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Renderer, Track & Player Kart | 0/0 | Not started | - |
+| 1. Renderer, Track & Player Kart | 0/2 | Not started | - |
 | 2. AI Opponents & Checkpoint System | 0/0 | Not started | - |
 | 3. Race Loop, Items & Results | 0/0 | Not started | - |
 | 4. PWA Hardening & Orientation Polish | 0/0 | Not started | - |
